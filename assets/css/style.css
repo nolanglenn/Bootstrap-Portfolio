@@ -1,0 +1,22 @@
+/* #logo-nav {
+    max-width: 960px;
+    margin: 0 0 0 33%;
+} */
+
+/* .navbar-brand {
+    background-color: #1f4b7e;
+    padding: 20px;
+    color: #ffffff;
+} */
+
+.card {
+    max-width: 960px;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
